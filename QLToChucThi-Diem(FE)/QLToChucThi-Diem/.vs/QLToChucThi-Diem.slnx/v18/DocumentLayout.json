@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|d:\\se01c\\tt\\ltdb\\doannhom7\\qltochucthi-diem(fe)\\qltochucthi-diem\\quanlythi.client\\forms\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|d:\\se01c\\tt\\ltdb\\doannhom7\\qltochucthi-diem(fe)\\qltochucthi-diem\\quanlythi.client\\forms\\frmteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|d:\\se01c\\tt\\ltdb\\doannhom7\\qltochucthi-diem(fe)\\qltochucthi-diem\\quanlythi.client\\forms\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|d:\\se01c\\tt\\ltdb\\doannhom7\\qltochucthi-diem(fe)\\qltochucthi-diem\\quanlythi.client\\forms\\frmcoursesectiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmcoursesectiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\quanlythi.client\\forms\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\quanlythi.client\\forms\\frmsubjectdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmsubjectdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\quanlythi.client\\forms\\frmteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\quanlythi.client\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\quanlythi.client\\forms\\frmexamscheduledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmexamscheduledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\quanlythi.client\\forms\\frmscoredetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmscoredetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|d:\\se01c\\tt\\ltdb\\doannhom7\\qltochucthi-diem(fe)\\qltochucthi-diem\\quanlythi.client\\forms\\frmscoredetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmscoredetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|d:\\se01c\\tt\\ltdb\\doannhom7\\qltochucthi-diem(fe)\\qltochucthi-diem\\quanlythi.client\\forms\\frmexamscheduledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmexamscheduledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|d:\\se01c\\tt\\ltdb\\doannhom7\\qltochucthi-diem(fe)\\qltochucthi-diem\\quanlythi.client\\forms\\frmcoursesectiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmcoursesectiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|d:\\se01c\\tt\\ltdb\\doannhom7\\qltochucthi-diem(fe)\\qltochucthi-diem\\quanlythi.client\\forms\\frmsubjectdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmsubjectdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|d:\\se01c\\tt\\ltdb\\doannhom7\\qltochucthi-diem(fe)\\qltochucthi-diem\\quanlythi.client\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF402AF-C2A2-406C-9644-F701D86EBFFB}|QuanLyThi.Client\\QuanLyThi.Client.csproj|D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\quanlythi.client\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF402AF-C2A2-406C-9644-F701D86EBFFB}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\quanlythi.client\\forms\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|d:\\se01c\\tt\\ltdb\\doannhom7\\qltochucthi-diem(fe)\\qltochucthi-diem\\quanlythi.client\\forms\\frmuserdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmuserdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\quanlythi.client\\forms\\frmuserdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmuserdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF402AF-C2A2-406C-9644-F701D86EBFFB}|QuanLyThi.Client\\QuanLyThi.Client.csproj|D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\quanlythi.client\\forms\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF402AF-C2A2-406C-9644-F701D86EBFFB}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF402AF-C2A2-406C-9644-F701D86EBFFB}|QuanLyThi.Client\\QuanLyThi.Client.csproj|D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\quanlythi.client\\forms\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF402AF-C2A2-406C-9644-F701D86EBFFB}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|d:\\se01c\\tt\\ltdb\\doannhom7\\qltochucthi-diem(fe)\\qltochucthi-diem\\quanlythi.client\\forms\\frmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329A673C-751A-FA66-FC9F-C7450B2EA207}|QuanLyThi.Client\\QuanLyThi.Client.csproj|solutionrelative:quanlythi.client\\forms\\frmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCourseSectionDetail.cs [Design]",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmCourseSectionDetail.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmCourseSectionDetail.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmCourseSectionDetail.cs [Design]",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmCourseSectionDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:05:49.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmStudent.cs",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmStudent.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmStudent.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmStudent.cs",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmStudent.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAYwEwBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:53:46.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTeacher.cs",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmTeacher.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmTeacher.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmTeacher.cs",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmTeacher.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAADwv20BAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:30:05.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmAdmin.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmAdmin.cs",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmAdmin.cs",
+              "ViewState": "AgIAAKgBAAAAAAAAAAAcwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:07:20.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmTeacher.cs [Design]",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmTeacher.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmTeacher.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmTeacher.cs [Design]",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T19:55:01.852Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmAdmin.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmAdmin.cs [Design]",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:05:51.343Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSubjectDetail.cs [Design]",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmSubjectDetail.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmSubjectDetail.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmSubjectDetail.cs [Design]",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmSubjectDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:05:40.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmDangNhap.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:30:17.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmExamScheduleDetail.cs [Design]",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmExamScheduleDetail.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmExamScheduleDetail.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmExamScheduleDetail.cs [Design]",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmExamScheduleDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:05:45.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmScoreDetail.cs [Design]",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmScoreDetail.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmScoreDetail.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmScoreDetail.cs [Design]",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmScoreDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:45:25.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmExamScheduleDetail.cs",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmExamScheduleDetail.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmExamScheduleDetail.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmExamScheduleDetail.cs",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmExamScheduleDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:44:26.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmScoreDetail.cs",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmScoreDetail.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmScoreDetail.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmScoreDetail.cs",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmScoreDetail.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAowOAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:45:34.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmSubjectDetail.cs",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmSubjectDetail.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmSubjectDetail.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmSubjectDetail.cs",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmSubjectDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:27:16.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmCourseSectionDetail.cs",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmCourseSectionDetail.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmCourseSectionDetail.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmCourseSectionDetail.cs",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmCourseSectionDetail.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:05:57.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Services\\ApiClient.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Services\\ApiClient.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Services\\ApiClient.cs",
+              "RelativeToolTip": "QuanLyThi.Client\\Services\\ApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:32:06.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmDangNhap.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T18:09:48.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmStudent.cs [Design]",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmStudent.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmStudent.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmStudent.cs [Design]",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:53:42.548Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmUserDetail.cs",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmUserDetail.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmUserDetail.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmUserDetail.cs",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmUserDetail.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAkwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:06:08.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmUserDetail.cs [Design]",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmUserDetail.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmUserDetail.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmUserDetail.cs [Design]",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmUserDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:05:31.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmAdmin.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmAdmin.cs [Design]",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T19:54:42.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmAdmin.Designer.cs",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmAdmin.Designer.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmAdmin.Designer.cs",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmAdmin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:50:11.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmStudent.cs [Design]",
+              "DocumentMoniker": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmStudent.cs",
+              "RelativeDocumentMoniker": "QuanLyThi.Client\\Forms\\frmStudent.cs",
+              "ToolTip": "D:\\SE01C\\TT\\LTDB\\DoAnNhom7\\QLToChucThi-Diem(FE)\\QLToChucThi-Diem\\QuanLyThi.Client\\Forms\\frmStudent.cs [Design]",
+              "RelativeToolTip": "QuanLyThi.Client\\Forms\\frmStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T19:54:58.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
