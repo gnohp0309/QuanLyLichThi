@@ -1,6 +1,6 @@
 services:
   # PostgreSQL Database
-  - type: pspg
+  - type: postgres
     name: quanlythi-db
     plan: free
     databaseName: quanlythidb
